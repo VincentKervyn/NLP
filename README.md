@@ -21,29 +21,29 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
- -->
 
+ -->
 
 <!-- PROJECT LOGO -->
 <br />
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
+  </a> -->
 
   <h3 align="center">NLP Learning stack</h3>
 
   <p align="center">
     Gathering of my NLP exploration
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+<!--     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
     ·
     <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a> -->
   </p>
 </p>
 
@@ -80,7 +80,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
 During my AI learning track, I started to explore NLP field. To not forget, I gathered here my discoveries
 <!-- 
@@ -117,15 +117,15 @@ PyReparser need specific version of Spacy
    ```sh
    git clone https://github.com/your_username_/Project-Name.git
    ```
-2. Install NPM packages
+<!-- 2. Install NPM packages
    ```sh
-   npm install
+   npm install 
    ```
 3. Enter your API in `config.js`
    ```JS
    const API_KEY = 'ENTER YOUR API';
    ```
-
+ -->
 
 
 <!-- USAGE EXAMPLES -->
@@ -172,7 +172,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 Project Link: [https://github.com/VincentKervyn/NLP](https://github.com/VincentKervyn/NLP)
 
 <!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
+<!-- ## Acknowledgements
 * [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
 * [Img Shields](https://shields.io)
 * [Choose an Open Source License](https://choosealicense.com)
@@ -184,7 +184,7 @@ Project Link: [https://github.com/VincentKervyn/NLP](https://github.com/VincentK
 * [Sticky Kit](http://leafo.net/sticky-kit)
 * [JVectorMap](http://jvectormap.com)
 * [Font Awesome](https://fontawesome.com)
-
+ -->
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
